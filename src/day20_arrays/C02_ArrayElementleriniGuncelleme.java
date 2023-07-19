@@ -45,7 +45,7 @@ public class C02_ArrayElementleriniGuncelleme {
          */
 
         // CTE altı çiziki durumda kod hiç çalismaz
-
+        // Test olarak bu satırı ekledim
 
 
     }
