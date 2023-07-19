@@ -32,7 +32,7 @@ public class C02_ArrayElementleriniGuncelleme {
 
         // 6.index'e yeni bir element ekleyelim
 
-        sayilar[6] = 20; // ArrayIndexOutOfBoundsException 
+        sayilar[6] = 22; // ArrayIndexOutOfBoundsException
         // run dedikten sonra bu hata olustugu icin
         // buna Run Time Error denilir bunda mantik hatasi yok syntax hatasi yok deger hatasi vardir
 
