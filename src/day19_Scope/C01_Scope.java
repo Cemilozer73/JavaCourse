@@ -1,6 +1,6 @@
 package day19_Scope;
 
-public class C01_Scope {
+public class        C01_Scope {
     static int classLevelStatic = 12;
     String strClassLevelStaticOlmayan = "Java Guzeldir";
 
