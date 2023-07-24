@@ -2,7 +2,7 @@ package day22_arrays_multiDimensionalArrays;
 
 import java.util.Arrays;
 
-public class C02_sort {
+public class  C02_sort {
 
     public static void main(String[] args) {
 

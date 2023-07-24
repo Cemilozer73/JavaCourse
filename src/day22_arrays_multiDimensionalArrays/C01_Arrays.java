@@ -17,7 +17,7 @@ public class C01_Arrays {
 
             kelimeUzunlugu = isimler[i].length();
 
-            if (kelimeUzunlugu % 2 == 1 ){
+            if (kelimeUzunlugu % 2 == 1 ){ // if (kelimeUzunlugu % != 0) şeklinde de yazabilrz tek kelimeleri bulmak için.
                 System.out.print(isimler[i] + " ");
                 sayac++;
             }
