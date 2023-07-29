@@ -8,15 +8,12 @@ public class C08_Car {
     int fiyat;
     String renk="Renk belirtilmemis";
 
-    @Override
     public String toString() {
-        return "C08_Car{" +
-                "marka='" + marka + '\'' +
-                ", model='" + model + '\'' +
-                ", yil=" + yil +
-                ", fiyat=" + fiyat +
-                ", renk='" + renk + '\'' +
-                '}';
-
+        return "Araba bilgileri ==> " +
+                "marka:'" + marka + '\'' +
+                ", model:'" + model + '\'' +
+                ", yil:" + yil +
+                ", fiyat:" + fiyat +
+                ", renk:'" + renk + '\'' ;
     }
 }
