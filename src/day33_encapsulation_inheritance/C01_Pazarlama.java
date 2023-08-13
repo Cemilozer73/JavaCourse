@@ -1,6 +1,6 @@
 package day33_encapsulation_inheritance;
 
-public class C01_Pazarlama {
+public class    C01_Pazarlama {
     /*
         satis degeri girecekler
         satis girebilsin ama basklarinin girdigi satislari goremesin
@@ -25,7 +25,7 @@ public class C01_Pazarlama {
     public int getToplamSatis() {
 
         return toplamSatis;
-    }
+}
 
     public void setSatis(int satis) {
         this.satis = satis;
@@ -33,6 +33,7 @@ public class C01_Pazarlama {
     }
 
     private void toplamSatisaEkle(){
+
         toplamSatis += satis;
     }
 }

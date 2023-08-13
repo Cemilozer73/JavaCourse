@@ -1,6 +1,6 @@
 package day33_encapsulation_inheritance;
 
-public class C05_Runner {
+public class  C05_Runner {
 
     public static void main(String[] args) {
 

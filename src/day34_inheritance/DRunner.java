@@ -1,6 +1,6 @@
 package day34_inheritance;
 
-public class DRunner {
+public class  DRunner {
 
     public static void main(String[] args) {
 
